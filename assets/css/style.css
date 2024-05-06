@@ -1,0 +1,96 @@
+.h1 {
+    font-family: "Raleway";
+    font-size: 400;
+}
+
+@media(max-width: 991px) {
+    .anchoParaCentrarSeccionTextos {
+        width: 310px;
+    }
+
+    .anchoParaCentrarTarjetas {
+        width: 288px;
+    }
+}
+
+.hr_linea {
+    background-color: #16a2b7;
+    height: 0.2em;
+}
+
+article {
+    background-color: black;
+}
+
+.card-body03 {
+    background-color: #16a2b7;
+    color: white;
+    text-align: left;
+    height: 17em;
+    padding: 0.5em;
+}
+
+#viajesChile {
+    background-color: aqua;
+}
+
+.card-imagen {
+    height: 140px;
+}
+
+.card-body02 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 0;
+    text-align: left;
+}
+
+.card0 {
+    background-color: black;
+}
+
+body {
+    font-family: "Raleway", "Open Sans";
+    color: white;
+    background-color: black;
+}
+
+i {
+    color: white;
+}
+
+.fa-solid {
+    color: rgb(218, 227, 227);
+    position: relative;
+}
+
+
+
+.card-body01 {
+    background-color: #1893a5;
+    padding: 2px;
+    font-size: 20px;
+}
+
+.card-body00 {
+    background-color: white;
+    ;
+    margin-top: 1.5em;
+}
+
+footer {
+    color: white;
+    font-weight: bold;
+    background-color: #16a2b7;
+    font-family: "Raleway";
+    font-size: 400;
+    position: absolute;
+    width: 100%;
+    padding: 20px
+}
+
+.btn {
+    color: azure;
+}
+
